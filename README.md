@@ -6,4 +6,4 @@ This repository creates a single tsv-formatted table ([`merged.tsv.gz`](data/mer
 
 For more information, see the corresponding [Thinklab discussion](http://thinklab.com/discussion/the-tissues-resource-for-the-tissue-specificity-of-genes/91).
 
-All computation is performed by the [`TISSUES.ipynb`](TISSUES.ipynb) notebook. Code was written for Python 3.4.
+All computation is performed by the [`tissues.ipynb`](tissues.ipynb) notebook. Code was written for Python 3.4.
